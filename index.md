@@ -10,7 +10,7 @@ description: YoSeb Choi. | '최요셉' 입니다. 개발자가 되고싶습니�
     <h1 class="intro">
     YoSeb Choi
     </h1>
-    <h1 class="intro"> Would be Developer
+    <h1 class="intro"> I'm YoSeb Choi, a Junior Developer at 
         <div class="intro-link">
             <a class="transition" href="https://youngint.com//" target="_blank">
                 YoungInt
