@@ -2,17 +2,17 @@
 layout: default
 title: "YoSeb Choi"
 main: true
-subtitle: Would be Developer
+subtitle: Junior Developer YoSeb Choi at YoungInt
 description: YoSeb Choi. | '최요셉' 입니다. 개발자가 되고싶습니다.
 ---
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    YoSeb Choi
+    I'm YoSeb Choi,
     </h1>
-    <h1 class="intro"> I'm YoSeb Choi, a Junior Developer at 
+    <h1 class="intro">a Junior Developer at 
         <div class="intro-link">
-            <a class="transition" href="https://youngint.com//" target="_blank">
+            <a class="transition" href="https://youngint.com/" target="_blank">
                 YoungInt
             </a>
             <div class="underline-mask transition"></div>
