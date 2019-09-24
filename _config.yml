@@ -2,9 +2,9 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Jihye Leee
+title:          YoSeb Choi
 baseurl:        ""
-url:            "http://www.jihyeleee.com"
+url:            "http://www.yolog.tk"
 
 # Assets
 sass:
@@ -16,13 +16,13 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Jihye Leee
-  url:          http://jihyeleee.com/
-  email:        iam.leejihye@gmail.com  
-  github:       iamleejihye
-  twitter:      playpingpong
+  name:         YoSeb Choi
+  url:          http://www.yolog.tk
+  email:        iam.choiyos0417@gmail.com  
+  github:       choiyos
+  #twitter:      
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/iamleejihye/iamleejihye.github.io
+  repo:         https://github.com/choiyos/choiyos.github.io
