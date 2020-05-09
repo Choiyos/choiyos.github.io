@@ -8,7 +8,7 @@ subtitle: "악에 대한 성찰"
 
 type: "Book Review"
 
-blog: true
+book: true
 
 text: true
 
