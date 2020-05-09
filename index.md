@@ -3,7 +3,7 @@ layout: default
 title: "YoSeb Choi"
 main: true
 subtitle: Junior Developer YoSeb Choi at YoungInt
-description: YoSeb Choi. | '최요셉' 입니다. 개발자가 되고싶습니다.
+description: YoSeb Choi. | 최요셉 - Junior Developer Lv 09.
 ---
 <div class="intro-animation">
 <section class="explanation">
@@ -19,7 +19,7 @@ description: YoSeb Choi. | '최요셉' 입니다. 개발자가 되고싶습니�
             <div class="underline"></div>
         </div>.
     </h1>
-    <h2 class="intro">'최요셉' 입니다. 개발자가 되고싶습니다.</h2>
+    <h2 class="intro">최요셉 - Junior Developer Lv 09.</h2>
 </section>
 </div>
 {% include resume.html %}
