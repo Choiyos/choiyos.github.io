@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Yolog
 baseurl:        ""
-url:            "http://www.yolog.tk"
+url:            "http://www.yolog.tk/"
 
 # Assets
 sass:
@@ -17,7 +17,7 @@ markdown:       kramdown
 # About
 author:
   name:         Yolog
-  url:          http://www.yolog.tk
+  url:          http://www.yolog.tk/
   email:        iam.choiyos0417@gmail.com  
   github:       choiyos
   #twitter:      
