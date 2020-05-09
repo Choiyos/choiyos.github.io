@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "YoSeb Choi"
+title: "Yolog"
 main: true
 subtitle: Junior Developer YoSeb Choi at YoungInt
 description: YoSeb Choi. | 최요셉 - Junior Developer Lv 09.
