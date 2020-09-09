@@ -13,6 +13,12 @@ book: false
 
 projects: true
 
+post-header: true
+
+portfolio: true
+
+main-img: "img/header.jpg"
+
 text: true
 
 author: "YoSeb Choi"
