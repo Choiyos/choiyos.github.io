@@ -22,9 +22,9 @@ text: true
 
 author: "YoSeb Choi"
 
-post-header: true
-
 header-img: "img/header.png"
+
+portfolio: true
 
 order: 1
 
