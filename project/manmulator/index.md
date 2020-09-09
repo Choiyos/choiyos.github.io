@@ -18,6 +18,8 @@ author: "YoSeb Choi"
 
 post-header: true
 
+portfolio: true
+
 main-img: "img/manman_header.png"
 
 header-img: "img/header.png"

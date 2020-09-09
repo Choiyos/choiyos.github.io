@@ -16,7 +16,7 @@ post-header: true
 
 portfolio: true
 
-main-img: "img/header.png"
+main-img: "img/dragon_treasure_header.png"
 
 text: true
 
