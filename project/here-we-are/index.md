@@ -40,7 +40,7 @@ order: 1
 
 프로젝트 요약 : 좀비 감염이 발생한 학교에서 학생들 구출하는 역할을 맡은 선생님의 입장에서 플레이 하는 퍼즐게임.
 
-![프로젝트 영상](https://www.youtube.com/watch?v=v-ZfY3sHq1Y)
+[프로젝트 영상](https://www.youtube.com/watch?v=v-ZfY3sHq1Y)
 
 수행 역할 : 클라이언트 로직 및 시스템 구현
 

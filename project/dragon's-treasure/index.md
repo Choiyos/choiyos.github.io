@@ -42,7 +42,7 @@ order: 1
 
 프로젝트 요약 : 3D로 구현된 맵과 캐릭터를 통해 미로에서 탐색, 대전 등의 요소를 통해 모든 열쇠를 모아 가장 먼저 탈출한 사람이 승리하는 게임.
 
-![프로젝트 영상](https://www.youtube.com/watch?v=XNhZT1uVECw)
+[프로젝트 영상](https://www.youtube.com/watch?v=XNhZT1uVECw)
 
 수행 역할 : 서버와 클라이언트의 정보전달에 대한 연결, 클라이언트 로직 구현
 
